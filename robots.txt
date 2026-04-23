@@ -1,1 +1,1 @@
-Sitemap: https://datapages.github.io/datapage/sitemap.xml
+Sitemap: https://erinecampbell.github.io/ASLBloomDatapage/sitemap.xml
