@@ -6,13 +6,13 @@ about:
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/datapages/datapage
+      href: https://github.com/erinecampbell/ASLBloom
     - icon: globe
       text: Surveys
       href: https://allisonhorst.github.io/palmerpenguins/
     - icon: file-text
       text: Poster
-      href: https://doi.org/10.1371/journal.pone.0090081
+      href: https://www.erinecampbell.com/_files/ugd/4a1ffd_de663c200fd044d78232d91a76316af2.pdf
 
 citation:
   type: article-journal
