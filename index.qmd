@@ -1,14 +1,14 @@
 ---
-title: "Palmer Penguins"
-subtitle: "A great dataset for data exploration & visualization"
+title: "ASL Bloom Survey Data"
+subtitle: "This dataset is from a set of surveys administered to caregivers of deaf children, who were recruited through the [ASL Bloom app](https://www.aslbloom.com/)."
 description: |
-  Data were collected and made available by [Dr. Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) and the [Palmer Station, Antarctica LTER](https://pallter.marine.rutgers.edu/), a member of the [Long Term Ecological Research Network](https://lternet.edu/).
+  Data were collected and made available by [Dr. Erin Campbell](https://erinecampbell.com) at the [Boston University Deaf Center](https://deafcenter.bu.edu/). The dataset contains data from 166 caregivers.
 ---
 
 ::: {layout-ncol=2}
-![Artwork by \@allison_horst](images/lter_penguins.png)
+![](images/deaf_center_rainbow_girl.png)
 
-![](images/culmen_depth.png)
+![](images/bloom_signing.png)
 :::
 
 {{< include _load-data.qmd >}}

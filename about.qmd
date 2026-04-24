@@ -19,7 +19,7 @@ citation:
   title: Mythbusting in EHDI - Parental Beliefs About Language Development in Deaf Children.
   issued: 2025
   author:
-    - Erin E. Campbell
+    - EE Campbell
     - Arielle Spellun
     - Endre Elvestad
     - Jennie Pyers
