@@ -25,13 +25,13 @@
     "href": "about.html",
     "title": "ASL Bloom Survey Data",
     "section": "",
-    "text": "The goal of palmerpenguins is to provide a great dataset for data exploration & visualization, as an alternative to iris.\nData were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network. The dataset contains data for 344 penguins. There are 3 different species of penguins in this dataset, collected from 3 islands in the Palmer Archipelago, Antarctica.\nData are available by CC-0 license in accordance with the Palmer Station LTER Data Policy and the LTER Data Access Policy for Type I data."
+    "text": "This dataset is from a set of surveys administered to caregivers of deaf children, who were recruited through the ASL Bloom app.\nData were collected and made available by Dr. Erin Campbell at the Boston University Deaf Center. The dataset contains data from 166 caregivers.\nData are available by CC-0 license."
   },
   {
-    "objectID": "about.html#palmerpenguins",
-    "href": "about.html#palmerpenguins",
+    "objectID": "about.html#asl-bloom-survey-data",
+    "href": "about.html#asl-bloom-survey-data",
     "title": "ASL Bloom Survey Data",
     "section": "",
-    "text": "The goal of palmerpenguins is to provide a great dataset for data exploration & visualization, as an alternative to iris.\nData were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network. The dataset contains data for 344 penguins. There are 3 different species of penguins in this dataset, collected from 3 islands in the Palmer Archipelago, Antarctica.\nData are available by CC-0 license in accordance with the Palmer Station LTER Data Policy and the LTER Data Access Policy for Type I data."
+    "text": "This dataset is from a set of surveys administered to caregivers of deaf children, who were recruited through the ASL Bloom app.\nData were collected and made available by Dr. Erin Campbell at the Boston University Deaf Center. The dataset contains data from 166 caregivers.\nData are available by CC-0 license."
   }
 ]
