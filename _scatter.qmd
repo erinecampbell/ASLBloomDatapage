@@ -7,7 +7,7 @@ viewof color_var = Inputs.select(disc_opts, {value: Array.from(disc_opts.values(
 ```
 
 ```{ojs}
-default_color = d3.schemeCategory10[0]
+default_color = d3.schemeObservable10[0]
 plt_color = color_var || default_color
 
 all_vars = cont_vars.concat(disc_vars)
